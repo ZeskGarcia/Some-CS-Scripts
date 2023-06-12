@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        Console.Title = "FiveM Tools - WaveShield - discord.gg/CXZwrZx";
+        Console.Title = "FiveM Tools";
         Console.ForegroundColor = ConsoleColor.Red;
 
         Console.WriteLine("Press Any Key to optimize FiveM and Clear the cache");
