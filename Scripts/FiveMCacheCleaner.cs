@@ -1,3 +1,6 @@
+// Originally from https://github.com/AYZNN/fivem-cache-cleaner/tree/main
+// Converted to C# by ZeskGarcia (Zeskoo#6969)
+
 using System;
 using System.Diagnostics;
 
