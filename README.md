@@ -1,1 +1,2 @@
-# Some-CS-Scripts
+# Some C# Scripts that you can use for projects.
+
